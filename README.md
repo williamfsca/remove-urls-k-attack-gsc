@@ -34,10 +34,10 @@ This JavaScript bookmarklet is a simple yet powerful tool designed to automate t
 ## Robots.txt
 To block all URLs ending with `.html` from being indexed by search engines using the `robots.txt` file, you can add the following directives:
 
-```plaintext
+~~~
 User-agent: *
 Disallow: /*.html$
-
+~~~
 
 ## Acknowledgments
 
