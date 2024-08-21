@@ -1,6 +1,7 @@
 # Remove urls k-attack from Google Search Console
 This JavaScript bookmarklet is a simple yet powerful tool designed to automate the removal of URLs from Google Search Console. The script is particularly useful for tasks that require batch processing of multiple URLs, saving you time and effort by handling the entire process automatically.
 
+
 ## Features
 
 - **URL Verification:** The script verifies if the URL is already listed in Google Search Console before attempting to remove it.
@@ -19,3 +20,5 @@ This JavaScript bookmarklet is a simple yet powerful tool designed to automate t
    - Go to the Google Search Console page where you want to remove URLs.
    - Click the bookmarklet you saved.
    - Enter the URLs you want to remove, one per line.
+
+  ```javascript
