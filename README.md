@@ -20,5 +20,3 @@ This JavaScript bookmarklet is a simple yet powerful tool designed to automate t
    - Go to the Google Search Console page where you want to remove URLs.
    - Click the bookmarklet you saved.
    - Enter the URLs you want to remove, one per line.
-
-  ```javascript
