@@ -31,6 +31,14 @@ This JavaScript bookmarklet is a simple yet powerful tool designed to automate t
 5. **Execute the Process:**
    - The script will start processing each URL, checking if it has already been removed or is pending removal. If it encounters a duplicate request, it will handle it and move on to the next URL.
 
+## Robots.txt
+To block all URLs ending with `.html` from being indexed by search engines using the `robots.txt` file, you can add the following directives:
+
+```plaintext
+User-agent: *
+Disallow: /*.html$
+
+
 ## Acknowledgments
 
 I would like to thank [seoutopico](https://gist.github.com/seoutopico) for their inspiration to this code. Their work provided valuable guidance in developing this bookmarklet.
